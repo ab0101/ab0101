@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ab0101
-- 👀 I’m interested in idk anything but school
-- 🌱 I’m currently learning html/css/C
+pene.
 
 
 <!---
